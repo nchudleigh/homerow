@@ -11,13 +11,16 @@ This is Homerow's workflow:
 4. Press `Tab` or `Arrow-Dn` until the correct UI element is focused
 5. Press `Enter` to perform a click on the UI element
 
-### The Tutor 🤓
-
-
 ### Queries
 
 1. Spaces and cases are ignored
 2. `*` will query for all UI elements
+
+### Not sure what to type? The Tutor 🤓 comes to the rescue!
+
+Press `Command-T` to toggle The Tutor. Hover the cursor over the UI element to learn about it’s searchable properties.
+
+<video src="https://www.homerowapp.com/tutor-demo.mp4" controls autoplay loop muted playsinline style="max-height:640px;"></video>
 
 ### Controls
 
@@ -28,4 +31,5 @@ This is Homerow's workflow:
 | Left-click | `Enter` |
 | Right-click | `Shift-Enter` |
 | Command-click (performs `Open Link in New Tab`) | `Command-Enter` |
+| Toggle `The Tutor 🤓` | `Command-T` |
 | Exit | `Esc` |
