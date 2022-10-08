@@ -2,6 +2,8 @@
 
 Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.
 
+Visit the website at https://homerow.app.
+
 ## Demo
 
 
@@ -9,7 +11,7 @@ Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the
 
 ## Download
 
-Download Homerow and view the changelog [here](https://homerowapp.com/download/).
+Download Homerow and view the changelog [here](https://homerow.app/download/).
 
 Requires macOS 12.3 or later.
 
@@ -52,4 +54,4 @@ Press `Command-T` to toggle The Tutor. Hover the cursor over the UI element to l
 
 ---
 
-Homerow is developed by an indie developer (me). It can be evaluated for free. Please [purchase a license](https://www.homerowapp.com/pricing/) to support development. Thanks!
+Homerow is developed by an indie developer (me). It can be evaluated for free. Please [purchase a license](https://www.homerow.app/pricing/) to support development. Thanks!
