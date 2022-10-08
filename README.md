@@ -2,6 +2,12 @@
 
 Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.
 
+## Download
+
+Download Homerow and view the changelog [here](https://homerowapp.com/download/).
+
+Requires macOS 12.3 or later.
+
 ## User Guide
 
 This is Homerow's workflow:
