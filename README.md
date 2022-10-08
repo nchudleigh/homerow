@@ -2,6 +2,11 @@
 
 Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.
 
+## Demo
+
+
+<video src="https://user-images.githubusercontent.com/34204380/194687760-b7e5da15-b2ce-4d18-99ea-8cefd9a9fecf.mp4"></video>
+
 ## Download
 
 Download Homerow and view the changelog [here](https://homerowapp.com/download/).
@@ -24,9 +29,9 @@ This is Homerow's workflow:
 
 ### Not sure what to type? The Tutor 🤓 comes to the rescue!
 
-Press `Command-T` to toggle The Tutor. Hover the cursor over the UI element to learn about it’s searchable properties.
+<img width="701" alt="tutor" src="https://user-images.githubusercontent.com/34204380/194684445-957c80ec-1e58-44bc-8891-f5e633d2dabe.png">
 
-<video src="https://www.homerowapp.com/tutor-demo.mp4" controls autoplay loop muted playsinline style="max-height:640px;"></video>
+Press `Command-T` to toggle The Tutor. Hover the cursor over the UI element to learn about it’s searchable properties.
 
 ### Controls
 
@@ -39,3 +44,12 @@ Press `Command-T` to toggle The Tutor. Hover the cursor over the UI element to l
 | Command-click (performs `Open Link in New Tab`) | `Command-Enter` |
 | Toggle `The Tutor 🤓` | `Command-T` |
 | Exit | `Esc` |
+
+## Bug Reports, Feature Requests, etc.
+
+- Open a GitHub Issue
+- <a href="mailto:dexter@homerow.app">dexter@homerow.app</a>
+
+---
+
+Homerow is developed by an indie developer (me). It can be evaluated for free. Please [purchase a license](https://www.homerowapp.com/pricing/) to support development. Thanks!
