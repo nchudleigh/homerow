@@ -39,8 +39,8 @@ Press `Command-T` to toggle The Tutor. Hover the cursor over the UI element to l
 
 | Action  | Binding(s) |
 | ------------- | ------------- |
-| Focus next UI element | `Tab` or `Arrow Dn` |
-| Focus previous UI element | `Shift-Tab` or `Arrow Up` |
+| Focus next UI element | `Tab`, `Arrow Dn`, or `Control-N` |
+| Focus previous UI element | `Shift-Tab`, `Arrow Up`, or `Control-P` |
 | Left-click | `Enter` |
 | Right-click | `Shift-Enter` |
 | Command-click (performs `Open Link in New Tab`) | `Command-Enter` |
