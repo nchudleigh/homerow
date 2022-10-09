@@ -47,6 +47,24 @@ Press `Command-T` to toggle The Tutor. Hover the cursor over the UI element to l
 | Toggle `The Tutor 🤓` | `Command-T` |
 | Exit | `Esc` |
 
+### Pro-tip: Map Caps Lock to Hyper Key
+
+You'll likely activate Homerow quite frequently, so make the controls as comfortable and as quick as possible for the best experience.
+
+Three reasons to use Hyper Key:
+1. Activate Homerow with `Caps Lock + F`
+2. Focus the next or previous UI Element with `Caps Lock + J` and `Caps Lock + K` respectively.
+3. Navigate menus with `Caps Lock + H/J/K/L`
+
+How to set up Hyper Key:
+1. [Hyperkey](https://hyperkey.app) by Ryan Hanson OR
+2. Configure Karabiner-Elements
+  - You can import my Karabiner Hyper Key rules by opening this link in your browser:
+    ```
+    karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/dexterleng/homerow/main/hyper_key.json
+    ```
+    - [View the rules JSON](https://github.com/dexterleng/homerow/blob/main/hyper_key.json)
+
 ## Bug Reports, Feature Requests, etc.
 
 - Open a GitHub Issue
