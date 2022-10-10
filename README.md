@@ -65,6 +65,10 @@ How to set up Hyper Key:
     ```
     - [View the rules JSON](https://github.com/dexterleng/homerow/blob/main/hyper_key.json)
 
+### Pro-tip: Scrolling with Keyboard Scroller
+
+I made [Keyboard Scroller](https://github.com/dexterleng/KeyboardScroller.docs), a free app to scroll with keyboard shortcuts. Check it out!
+
 ## Bug Reports, Feature Requests, etc.
 
 - Open a GitHub Issue
