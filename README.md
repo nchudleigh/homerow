@@ -69,10 +69,13 @@ How to set up Hyper Key:
 
 I made [Keyboard Scroller](https://github.com/dexterleng/KeyboardScroller.docs), a free app to scroll with keyboard shortcuts. Check it out!
 
-## Bug Reports, Feature Requests, etc.
+## Support
 
+Encountered a bug? Would like to request a feature? An app does not work well with Homerow?
+
+Please let me know through:
 - Open a GitHub Issue
-- <a href="mailto:dexter@homerow.app">dexter@homerow.app</a>
+- Email me at <a href="mailto:dexter@homerow.app">dexter@homerow.app</a>
 
 ---
 
