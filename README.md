@@ -42,6 +42,7 @@ Press `Command-T` to toggle The Tutor. Hover the cursor over the UI element to l
 | Focus next UI element | `Tab`, `Arrow Dn`, or `Control-N` |
 | Focus previous UI element | `Shift-Tab`, `Arrow Up`, or `Control-P` |
 | Left-click | `Enter` |
+| Double left-click | Press `Enter` twice in quick succession |
 | Right-click | `Shift-Enter` |
 | Command-click (performs `Open Link in New Tab`) | `Command-Enter` |
 | Toggle `The Tutor 🤓` | `Command-T` |
