@@ -6,7 +6,6 @@ Visit the website at https://homerow.app.
 
 ## Demo
 
-
 <video src="https://user-images.githubusercontent.com/34204380/194687760-b7e5da15-b2ce-4d18-99ea-8cefd9a9fecf.mp4"></video>
 
 ## Download
@@ -20,20 +19,24 @@ Requires macOS 12.3 or later.
 This is Homerow's workflow:
 1. Activate via shortcut (default is `Command-Shift-Space`)
 2. Search for the UI element to click on
-3. Targets will show for the UI elements matching the query. The green target is the current focused target.
-4. Press `Tab` or `Arrow-Dn` until the correct UI element is focused
-5. Press `Enter` to perform a click on the UI element
+3. Labels (aka dynamic shortcuts) will be shown for the UI elements matching the query. The green target is the current focused UI element.
+4. There are two ways to focus the correct UI element:
+    - Press `Tab` or `Arrow-Dn` until the correct UI element is focused
+    - Type the UI element's label text while holding `Shift`
+5. Press `Enter` to perform a click on the focused UI element
+
+There is an option to use the Label-only workflow, which disables the search feature and allows you to type the label text without holding down `Shift`.
 
 ### Queries
 
 1. Spaces and cases are ignored
-2. `*` will query for all UI elements
+2. `*` and `;` will query for all UI elements
 
 ### Not sure what to type? The Tutor 🤓 comes to the rescue!
 
 <img width="701" alt="tutor" src="https://user-images.githubusercontent.com/34204380/194684445-957c80ec-1e58-44bc-8891-f5e633d2dabe.png">
 
-Press `Command-T` to toggle The Tutor. Hover the cursor over the UI element to learn about it’s searchable properties.
+When Homerow is activated, hover your cursor over a UI element to learn about it’s searchable properties. The Tutor will disable itself after typing.
 
 ### Controls
 
@@ -41,11 +44,12 @@ Press `Command-T` to toggle The Tutor. Hover the cursor over the UI element to l
 | ------------- | ------------- |
 | Focus next UI element | `Tab`, `Arrow Dn`, or `Control-N` |
 | Focus previous UI element | `Shift-Tab`, `Arrow Up`, or `Control-P` |
+| Jump focus to UI element | Type the label while holding `Shift` |
 | Left-click | `Enter` |
 | Double left-click | Press `Enter` twice in quick succession |
 | Right-click | `Shift-Enter` |
 | Command-click (performs `Open Link in New Tab`) | `Command-Enter` |
-| Toggle `The Tutor 🤓` | `Command-T` |
+| Enable `The Tutor 🤓` | Hover your cursor over the UI element |
 | Exit | `Esc` |
 
 ### Pro-tip: Map Caps Lock to Hyper Key
