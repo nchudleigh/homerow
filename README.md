@@ -6,7 +6,7 @@ Visit the website at https://homerow.app.
 
 ## Demo
 
-<video src="https://user-images.githubusercontent.com/34204380/194687760-b7e5da15-b2ce-4d18-99ea-8cefd9a9fecf.mp4"></video>
+<video src="https://user-images.githubusercontent.com/34204380/205491000-5f3cc28f-2f94-4586-bbed-643001f58d6d.mp4"></video>
 
 ## Download
 
