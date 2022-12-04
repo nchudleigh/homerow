@@ -34,9 +34,13 @@ There is an option to use the Label-only workflow, which disables the search fea
 
 ### Not sure what to type? The Tutor 🤓 comes to the rescue!
 
-<img width="701" alt="tutor" src="https://user-images.githubusercontent.com/34204380/194684445-957c80ec-1e58-44bc-8891-f5e633d2dabe.png">
+<img width="701" alt="tutor" src="https://user-images.githubusercontent.com/34204380/205489888-ccd3993f-dd6c-4408-a45c-e76d19c94d28.png">
 
-When Homerow is activated, hover your cursor over a UI element to learn about it’s searchable properties. The Tutor will disable itself after typing.
+The Tutor shows you searchable properties of a UI element.
+
+When Homerow is activated, you can call for the Tutor two ways:
+1. Press `?` for Tutor to follow the focused UI element
+2. Hover your cursor over the UI element
 
 ### Controls
 
@@ -49,7 +53,7 @@ When Homerow is activated, hover your cursor over a UI element to learn about it
 | Double left-click | Press `Enter` twice in quick succession |
 | Right-click | `Shift-Enter` |
 | Command-click (performs `Open Link in New Tab`) | `Command-Enter` |
-| Enable `The Tutor 🤓` | Hover your cursor over the UI element |
+| Enable the `Tutor 🤓` | `?` or hover your cursor over the UI element |
 | Exit | `Esc` |
 
 ### Pro-tip: Map Caps Lock to Hyper Key
