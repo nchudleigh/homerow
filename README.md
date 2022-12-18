@@ -1,4 +1,10 @@
-# Homerow
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/34204380/208291548-17d707ec-8360-4dcd-b5d2-5bfa3267aabe.png" alt="Homerow icon" width="auto" height="192px"/>
+</p>
+
+<p align="center">
+  <h1 align="center">Homerow - Navigate macOS like a Pro</h2>
+</p>
 
 Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.
 
