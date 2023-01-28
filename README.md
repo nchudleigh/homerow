@@ -29,7 +29,7 @@ This is Homerow's workflow:
 4. There are two ways to focus the correct UI element:
     - Press `Tab` or `Arrow-Dn` until the correct UI element is focused
     - Type the UI element's label text while holding `Shift`
-5. Press `Enter` to perform a click on the focused UI element
+5. Press `Return` to perform a click on the focused UI element
 
 There is an option to use the Label-only workflow, which disables the search feature and allows you to type the label text without holding down `Shift`.
 
@@ -48,6 +48,12 @@ When Homerow is activated, you can call for the Tutor two ways:
 1. Press `?` for Tutor to follow the focused UI element
 2. Hover your cursor over the UI element
 
+### Disable Search for ergonomics
+
+When search is disabled in Preferences, labels for all UI elements are always shown, and label-text can be typed without holding `Shift`. You can click more ergonomically by pressing `Space` instead of `Return`.
+
+Made for those who ❤️ Vimium and Vimperator.
+
 ### Controls
 
 | Action  | Binding(s) |
@@ -55,10 +61,10 @@ When Homerow is activated, you can call for the Tutor two ways:
 | Focus next UI element | `Tab`, `Arrow Dn`, or `Control-N` |
 | Focus previous UI element | `Shift-Tab`, `Arrow Up`, or `Control-P` |
 | Jump focus to UI element | Type the label while holding `Shift` |
-| Left-click | `Enter` |
-| Double left-click | Press `Enter` twice in quick succession |
-| Right-click | `Shift-Enter` |
-| Command-click (performs `Open Link in New Tab`) | `Command-Enter` |
+| Left-click | `Return` |
+| Double left-click | Press `Return` twice in quick succession |
+| Right-click | `Shift-Return` |
+| Command-click (performs `Open Link in New Tab`) | `Command-Return` |
 | Enable the `Tutor 🤓` | `?` or hover your cursor over the UI element |
 | Exit | `Esc` |
 
