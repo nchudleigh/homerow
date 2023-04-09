@@ -31,7 +31,7 @@ This is Homerow's workflow:
     - Type the UI element's label text while holding `Shift`
 5. Press `Return` to perform a click on the focused UI element
 
-There is an option to use the Label-only workflow, which disables the search feature and allows you to type the label text without holding down `Shift`.
+There is an option to use the Labels-only workflow, which disables the search feature and allows you to type the label text without holding down `Shift`.
 
 ### Queries
 
@@ -48,9 +48,9 @@ When Homerow is activated, you can call for the Tutor two ways:
 1. Press `?` for Tutor to follow the focused UI element
 2. Hover your cursor over the UI element
 
-### Disable Search for ergonomics
+### Disable search for speed 🏃‍♂️💨
 
-When search is disabled in Preferences, labels for all UI elements are always shown, and label-text can be typed without holding `Shift`. You can click more ergonomically by pressing `Space` instead of `Return`.
+Labels-only mode disables search. Labels for all UI elements are always shown, and label-text can be typed without holding `Shift`. You can click more ergonomically by pressing `Space` instead of `Return`.
 
 Made for those who ❤️ Vimium and Vimperator.
 
@@ -66,6 +66,20 @@ Made for those who ❤️ Vimium and Vimperator.
 | Right-click | `Shift-Return` |
 | Command-click (performs `Open Link in New Tab`) | `Command-Return` |
 | Enable the `Tutor 🤓` | `?` or hover your cursor over the UI element |
+| Exit | `Esc` |
+
+
+### Scroll with HJKL keys 🛞
+
+Activate Scroll-mode with the shortcut (default is `⇧ ⌘ J`) and start scrolling in the active scroll area with HJKL keys (DHTN in DVORAK).
+
+| Action  | Binding(s) |
+| ------------- | ------------- |
+| Scroll | `H/J/K/L` |
+| Dash | `Shift-H/J/K/L` |
+| Next scroll area | `Tab`, `Arrow Down`, or `Control-N` |
+| Previous scroll area | `Shift-Tab`, `Arrow Up`, or `Control-P` |
+| Jump to scroll area | `0-9` |
 | Exit | `Esc` |
 
 ### Pro-tip: Map Caps Lock to Hyper Key
@@ -85,11 +99,7 @@ How to set up Hyper Key:
     karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/dexterleng/homerow/main/hyper_key.json
     ```
     - [View the rules JSON](https://github.com/dexterleng/homerow/blob/main/hyper_key.json)
-
-### Pro-tip: Scrolling with Keyboard Scroller
-
-I made [Keyboard Scroller](https://github.com/dexterleng/KeyboardScroller.docs), a free app to scroll with keyboard shortcuts. Check it out!
-
+    
 ## Support
 
 Encountered a bug? Would like to request a feature? An app does not work well with Homerow?
