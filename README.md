@@ -3,12 +3,11 @@
 </p>
 
 <p align="center">
-  <h1 align="center">Homerow - Navigate macOS like a Pro</h2>
+  <h1 align="center">Homerow - Navigate macOS with your keyboard</h2>
 </p>
 
-Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.
-
-Visit the website at https://homerow.app.
+Click, navigate, and perform tasks with the keyboard, no mouse required.
+https://homerow.app.
 
 ## Demo
 
